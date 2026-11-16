@@ -43,7 +43,21 @@ In order to evaluate the quality of our dataset and compare it with the benchmar
 
 # Citation
 ### Plain
-Will be added soon...
+
+N. Abadani, A. Fatemi, and M. Nematbakhsh, “SimCat: Similarity-Based Category-Aware Answer Selection for Persian Question Answering,” *Journal of Computing and Security*, vol. 12, no. 1, pp. 1–22, Jun. 2025. doi: 10.22108/jcs.2024.142244.1146.
 
 ### Bibtex
-Will be added soon...
+
+```bibtex
+@ARTICLE{Abadani2025-SimCat,
+  title   = "{SimCat}: Similarity-Based Category-Aware Answer Selection for Persian Question Answering",
+  author  = "Abadani, Negin and Fatemi, Afsaneh and Nematbakhsh, Mohammadali",
+  journal = "Journal of Computing and Security",
+  volume  =  12,
+  number  =  1,
+  pages   =  "1--22",
+  year    =  2025,
+  month   =  jun,
+  doi     =  "10.22108/jcs.2024.142244.1146"
+}
+```
