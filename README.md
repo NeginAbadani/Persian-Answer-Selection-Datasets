@@ -44,20 +44,24 @@ In order to evaluate the quality of our dataset and compare it with the benchmar
 # Citation
 ### Plain
 
-N. Abadani, A. Fatemi, and M. Nematbakhsh, “SimCat: Similarity-Based Category-Aware Answer Selection for Persian Question Answering,” *Journal of Computing and Security*, vol. 12, no. 1, pp. 1–22, Jun. 2025. doi: 10.22108/jcs.2024.142244.1146.
+N. Abadani, A. Fatemi, and M. Nematbakhsh, “SimCat: Similarity-Based Category-Aware Answer Selection for Persian Question Answering,” *Journal of Computing and Security*, vol. 12, no. 1, pp. 1–22, 2025. doi: 10.22108/jcs.2024.142244.1146.
 
 ### Bibtex
 
 ```bibtex
-@ARTICLE{Abadani2025-SimCat,
-  title   = "{SimCat}: Similarity-Based Category-Aware Answer Selection for Persian Question Answering",
-  author  = "Abadani, Negin and Fatemi, Afsaneh and Nematbakhsh, Mohammadali",
-  journal = "Journal of Computing and Security",
-  volume  =  12,
-  number  =  1,
-  pages   =  "1--22",
-  year    =  2025,
-  month   =  jun,
-  doi     =  "10.22108/jcs.2024.142244.1146"
+@article{Abadani2025-SimCat,
+  author    = {Abadani, Negin and Fatemi, Afsaneh and Nematbakhsh, Mohammadali},
+  title     = {SimCat: Similarity-Based Category-Aware Answer Selection for Persian Question Answering},
+  journal   = {Journal of Computing and Security},
+  volume    = {12},
+  number    = {1},
+  pages     = {1--22},
+  year      = {2025},
+  publisher = {University of Isfahan and Iranian Society of Cryptology},
+  issn      = {2322-4460},
+  eissn     = {2383-0417},
+  doi       = {10.22108/jcs.2024.142244.1146},
+  url       = {https://jcomsec.ui.ac.ir/article_29087.html},
+  eprint = {https://jcomsec.ui.ac.ir/article_29087_012d65d07db0f2c9967d1a6cfab7758f.pdf}
 }
 ```
